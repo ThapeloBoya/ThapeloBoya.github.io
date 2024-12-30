@@ -1,23 +1,30 @@
-# Unrefined Client Websites
+# Hi, I'm Luis Araujo 👋
 
-## Description
-This folder contains various websites developed for clients. These projects showcase different styles and functionalities tailored to each client's requirements.
+Developer in ascension 👨‍💻🚀  
+Cybersecurity lover 🔒  
+Currently learning React ❄️, Node.js, and Java  
+Love UX concepts ❤️🎨  
+Will power. Let's go! 💻
 
-## Contents
-- Each subdirectory represents a different client's website, including:
-  - `client1/`: Description of the first client's website.
-  - `client2/`: Description of the second client's website.
-  - `...`: Additional client folders can be listed here.
+[LinkedIn](https://www.linkedin.com/in/luisaraujo)  
 
-## Accessing the Websites
-To view any of the client websites, navigate to the following URLs:
-- [Client 1 Website](https://thapeloboya.github.io/unrefined/client1/)
-- [Client 2 Website](https://thapeloboya.github.io/unrefined/client2/)
-- [Add other client links as necessary]
+---
 
-## Author
-Thapelo Boya
+## Luis's GitHub Stats
 
-## Notes
-- These websites are hosted for demonstration purposes.
-- All rights to the design and content of the respective websites belong to the clients.
+![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisFilipeAraujo&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula)
+
+---
+
+## Technologies
+
+- HTML, CSS, JavaScript
+- React, Node.js
+- Python, Flask, Express
+- Java, C, C++
+
+---
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFilipeAraujo&layout=compact&theme=dracula)
